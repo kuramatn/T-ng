@@ -1,0 +1,14 @@
+C:\Users\ttnguyen9\Desktop\C#\Bill\bin\Debug\net8.0\Bill.exe
+C:\Users\ttnguyen9\Desktop\C#\Bill\bin\Debug\net8.0\Bill.deps.json
+C:\Users\ttnguyen9\Desktop\C#\Bill\bin\Debug\net8.0\Bill.runtimeconfig.json
+C:\Users\ttnguyen9\Desktop\C#\Bill\bin\Debug\net8.0\Bill.dll
+C:\Users\ttnguyen9\Desktop\C#\Bill\bin\Debug\net8.0\Bill.pdb
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.AssemblyInfoInputs.cache
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.AssemblyInfo.cs
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.csproj.CoreCompileInputs.cache
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.dll
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\refint\Bill.dll
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.pdb
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\Bill.genruntimeconfig.cache
+C:\Users\ttnguyen9\Desktop\C#\Bill\obj\Debug\net8.0\ref\Bill.dll
